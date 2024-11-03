@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "/Image/The Great Gatsby.jpeg",
+        "review": "A timeless classic that delves into the complexities of the American Dream.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Classic", "Romance", "Drama"],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "/Image/1984.webp",
+        "review": "A chilling portrayal of a dystopian society, warning of the dangers of totalitarianism.",
+        "totalPages": 328,
+        "rating": 4.8,
+        "category": "Science Fiction",
+        "tags": ["Dystopian", "Political", "Classic"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 3,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "/Image/To Kill a Mockingbird.jpg",
+        "review": "A poignant narrative addressing themes of racial injustice and moral growth.",
+        "totalPages": 281,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": ["Social Commentary", "Coming-of-age", "Legal Drama"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "/Image/The Catcher in the Rye.webp",
+        "review": "An exploration of adolescent angst and rebellion, capturing the essence of teenage disillusionment.",
+        "totalPages": 224,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": ["Coming-of-age", "Literary Fiction", "Classic"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "/Image/Pride and Prejudice.jpg",
+        "review": "A witty and charming romance that explores societal norms and the complexities of human relationships.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": ["Romance", "Satire", "Classic"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "image": "/Image/The Hitchhiker's Guide to the Galaxy.jpeg",
+        "review": "A humorous and surreal journey through space, blending satire with philosophical ponderings.",
+        "totalPages": 224,
+        "rating": 4.4,
+        "category": "Science Fiction",
+        "tags": ["Humor", "Satire", "Adventure"],
+        "publisher": "Pan Books",
+        "yearOfPublishing": 1979
+    }
+]
